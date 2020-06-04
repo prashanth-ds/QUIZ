@@ -1,0 +1,4 @@
+user.setText(">> India's first satellite is named after");
+            
+String[] str = {"Aryabhatta", "Bhaskara II", "Bhaskara I", "Raman ", "Aryabhatta"};
+            

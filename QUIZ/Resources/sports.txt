@@ -1,0 +1,42 @@
+user.setText(">> Which sports event becomes the world's first major sports event to resume after COVID-19 lockdown?");
+
+String[] str = {"Copa America", "PL", "Bundesliga", "FIFA WC", "Bundesliga"};
+
+user.setText(">> Who becomes 1st Indian to win ITF's Fed Cup Heart Award for Asia/Oceania zone through online voting by fans?");
+
+String[] str = {"Leander Paes", "Sania Mirza" "Ankiya Raina", "Sumit Nagal", "Sania Mirza"};
+
+user.setText(">> Which are the official mascots of 19th Asian Games?");
+
+String[] str = {"Chenchen", "Congcong", "Lianlian", "All of the above", "All of the above"};
+
+user.setText(">> Which Indian cricketer has been appointed as the new brand ambassador of Chinese smartphone brand iQOO?");
+
+String[] str = {"Virat Kohli", "Sachin", "Suresh Raina", "M S Dhoni", "Virat Kohli"};
+
+user.setText(">> Who among the following players is known as the Sachin Tendulkar of domestic cricket?");
+
+String[] str = {"Ravi Sheron", "Virat Kohli", "Wasim Jaffer", "Suresh Raina", "Wasim Jaffer"};
+
+user.setTest(">> Who won the BBC Indian Sportswoman of the Year 2019?");
+
+String[] str = {"Saina Nehwal", "Sania mirza", "P V Sindhu", "Marry Kom", "P V Sindhu"};
+
+user.setText(">> Who recently won World Boxing Council heavyweight title?");
+
+String[] str = {"Tyson Fury", "David Haye", "Andy Ruiz Jr", "Manuel Charr", "Tyson Fury"};
+
+user.setText(">> Who became the first cricketer to play 100 matches in all three formats of the game - Test, ODI & T20?");
+
+String[] str = {"Virat Kohli", "Ross Taylor", "Rahul Dravid", "Brain Lara", "Ross Taylor"};
+
+user.setText(">> Which of the following is to host the final of FIFA U-17 Women's World Cup?");
+
+String[] str = {"Hyderabad", "New Delhi", "Mumbai", "Kolkata", "Mumbai"};
+
+user.setText(">> How many NBA titles does Michael Jordan have?");
+
+String[] str = {"5", "6", "7", "8", "6"};
+
+
+            

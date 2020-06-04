@@ -1,0 +1,45 @@
+user.setText(">> In the book ‘the Lord of the Rings ‘, who or what is Bilbo?");
+
+String[] str = {"Dwarf", "Wizard", "Hobbit", "Troll", "Hobbit"};
+
+user.setText(">> In which was Shakespeare born");
+
+String[] str = {"15", "16", "17", "18", "16"};
+
+user.setText(">> What is humorous five – line poem called as?");
+
+String[] str = {"Quartet", "Limerick", "Sextet", "Palindrome", "Limerick"};
+
+user.setText(">> Who is the villain in “Hamlet”?");
+
+String[] str = {"Horatio", "Lago", "Claudius", "Laertes", "Claudius"};
+
+user.setText(">> Which of the following is not a play by Shakespeare?");
+
+String[] str = {"Hamlet", "Macbeth", "Medea", "King Lear", "Medea"};
+ 
+user.setText(">> Who is Hamlet's mother?");
+
+String[] str = {"Beatrice", "Margaret", "Gertrude", "Rosalind", "Gertrude"};
+
+user.setTask(">> Stephen King's most sold book");
+
+String[] str = {"The Shining", "It", "The Stand", "Misery", "The Shining"};
+
+user.setText(">> How many Nobel Lauretes in literature are there in India");
+
+String[] str = {"1", "2", "3", "4", "1"};
+
+user.setText(">> In Dicken’s novel, A TALE OF TWO CITIES, the two cities referred to are London and _______");
+ 
+String[] str = {"Paris", "Athens", "Berlin", "Rome", "Paris"};
+
+user.setText(">> ‘Denouement’ means : The ending of ________?");
+
+String[] str = {"romance", "comedy", "tragedy", "phrase", "comedy"};
+
+
+
+
+
+            

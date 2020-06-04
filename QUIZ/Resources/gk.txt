@@ -1,0 +1,9 @@
+user.setText(">> Atomic number of Astatine");
+
+String[] str = {"85", "75", "51", "102", "85"};
+
+user.setText(">> Number of satellites launched by ISRO");
+
+String[] str = {"118", "104", "203", "319", "104"};
+
+            

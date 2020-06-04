@@ -1,0 +1,45 @@
+user.setText(">> How many Oscars did the 1994 movie Forest Gump win?");
+            
+String[] str = {"3", "6", "9", "12", "6"};
+
+user.setText(">> Which US city is the post-apocalyptic setting for the 2014 science-fiction film 'Divergent'?");
+
+String[] str = {"Atlanta", "Baltimore", "Chicago", "Dundee", "Chicago"};
+
+user.setText(">> Which book is NOT a title of a book in the Twilight series");
+
+String[] str = {"New Moon", "Midnight", "Twilight", "Eclipse", "Midnight"};
+
+user.setText(">> How many seasons of the TV show "FRIENDS" were there");
+
+String[] str = {"9", "10", "11", "12", "10"};
+
+user.setText(">> Which movie has been crowned Best Picture at the 91st Academy Awards?");
+
+String[] str = {"300", "The Favourite", "Green Book", "Roma", "Green Book"};
+
+user.setText(">> Who has the most Billboard #1 hits?");
+
+String[] str = {"Drake", "Madonna", "The Beatles", "Elvis", "The Beatles"};
+
+user.setText(">> Which is not a Pixar Movie");
+
+String[] str = {"Toy Story", "Shrek", "Cars", "Monsters Inc", "Shrek"};
+
+user.setText(">> How old was Harry Potter in the firt book, Harry Potter and the Sorcerer's Stone?");
+
+String[] str = {"9", "10", "11", "12", "11"};
+
+user.setText(">> Which superhero is the TV show 'Smallville' bases on?");
+
+String[] str = {"Spiderman", "Batman", "Superman", "Iron man", "Surperman"};
+
+user.setText(">> What is the IMDb rating of the movie The Shawshank Redemption");
+
+String[] str = {"9.1", "9.2", "9.3", "9.4", "9.3"};
+
+
+
+
+
+            
